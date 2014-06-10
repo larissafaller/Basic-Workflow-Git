@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"PADDING",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lar-",
+				"lar-cats"
+			],
+			[
+				"o",
+				"on"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bA",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"m",
+				"max-height"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-column"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"t",
+				"table-column-group"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"h",
+				"homelist"
+			],
+			[
+				"hom",
+				"homelist2"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"f",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Gizmo/Documents/Websites/Next Trial Folder/next trial file3.html",
+		"/Users/Gizmo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Gizmo/Desktop/New File Tower/untitled.html",
+		"/Users/Gizmo/Desktop/hellotower/indextower.html",
+		"/Users/Gizmo/Desktop/random.html",
+		"/Users/Gizmo/Documents/Websites/Cat Carousel Git/www.catcarousel.dev/index.html",
+		"/Users/Gizmo/Documents/Websites/LearnBootstrap/www.learnbootstrap.dev/lightbox.html",
+		"/Users/Gizmo/Documents/Websites/Thirdclass/www.third-class.dev/js/jquery-1.11.1.min copy.js",
+		"/Users/Gizmo/Desktop/Thirdclass/www.third-class.dev/style.css",
+		"/Users/Gizmo/Desktop/Thirdclass/www.third-class.dev/index.html",
+		"/Users/Gizmo/Desktop/Desktop/Cupcake Website/cupcakes.html",
+		"/Users/Gizmo/Desktop/Learn/www.learn.dev/index.html",
+		"/Users/Gizmo/Desktop/foundation-5.2.2/css/foundation.css",
+		"/Users/Gizmo/Desktop/www.deliciousness.dev/index.html",
+		"/Users/Gizmo/Desktop/foundation-5.2.2/robots.txt",
+		"/Users/Gizmo/Desktop/foundation-5.2.2/index.html",
+		"/Users/Gizmo/Desktop/foundation-5.2.2/humans.txt",
+		"/Users/Gizmo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Gizmo/Desktop/flexbox grid website/final/css/normalize.css",
+		"/Users/Gizmo/Desktop/nick pettit designer website/css/responsive.css",
+		"/Users/Gizmo/Desktop/wordpress/index.php",
+		"/Users/Gizmo/Desktop/Projects/index.html",
+		"/Users/Gizmo/Desktop/Projects/Super Cats/style.css",
+		"/Users/Gizmo/Desktop/Projects/Super Cats/index.html",
+		"/Users/Gizmo/Desktop/Projects/Super Cats/wonderkitten.html",
+		"/Users/Gizmo/Desktop/Projects/Lady Disco/mixes.html",
+		"/Users/Gizmo/Desktop/Projects/Lady Disco/tour.html",
+		"/Users/Gizmo/Desktop/Projects/Lady Disco/style2.css",
+		"/Users/Gizmo/Desktop/Projects/Lady Disco/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";	",
+			"li",
+			"google.com",
+			"ul.cats",
+			"cats",
+			"p",
+			"<h2>",
+			"h2",
+			"	\n",
+			"btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Gizmo/Documents/Websites/Thirdclass/www.third-class.dev/third-class.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
